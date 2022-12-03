@@ -1,5 +1,3 @@
-# Assignment Day 3 - 1
-
 # You are a pilot, cruising at an altitude of 33000 ft,
 # you want to land your plane, you need
 # to be under 5000ft take input from the pilot, what
